@@ -1,0 +1,37 @@
+COMANDOS DO Git
+
+git init (Iniciar repositorio)
+
+git add "Nome do arquivo" (reconhece todas as alterações feitas e adiciona]
+para preparar para salvar)
+
+
+(Para logar)
+git config --global user.email "fernandoasssilva@gmail.com"
+git config --global user.name "Fernandoasssilva"
+
+git commit -m "first commit" (Salvar arquivo localmente)
+
+git remote add origin (link)
+
+
+git push origem (master) (publicar o arquivo)
+
+git push -u origem (master) (publicar o arquivo) 
+
+Git clone (link do repositorio)
+Copiar o codigo para dentro da maquina
+
+
+
+(git checkout para ir mudando entre brenchs/ramificações/tarefas )
+git checkout -b "Hweb-001" (Cria um novo arquivo)
+git checkout "master" (Nome para qual você quer ir)
+
+
+document -
+
+console.log(""); = Costrar na tela
+document = pegar o documento
+.queryselector(""); = Criar Seletor, pega o primeiro seletor
+.querySelectorAll (""); = Criar Seletor, pega todos os seletores 
